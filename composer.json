@@ -1,5 +1,5 @@
 {
-  "name": "craftcms/ecs",
+  "name": "vardumper/ecs",
   "description": "Easy Coding Standard configurations for Craft CMS projects",
   "require": {
     "php": "^7.2.5|^8",
